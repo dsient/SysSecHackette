@@ -9,8 +9,8 @@
 SystemSec Hackette is designed to enumerate through a drive and filters potentially unwanted files.
 
 It collects information into 2 reports:
-      security_analysis.txt
-      scan_report.txt
+    > security_analysis.txt
+    > scan_report.txt
       
 The security analysis will provide a shorter, more user friendly view into gathered data; while the scan report logs everything it captures.
 It uses no external libraries, only python3.
