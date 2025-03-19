@@ -7,7 +7,10 @@
 
 ## ::: WHAT IT DOES :::
 SystemSec Hackette is designed to enumerate through a drive and filters for risky access levels.
+    
     Note :: It is NOT an antivirus, it simply collects data regarding what files and applications have risky / root access levels
+
+
 It collects information into 2 reports:
 
     security_analysis.txt
